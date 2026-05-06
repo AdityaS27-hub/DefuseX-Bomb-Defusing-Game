@@ -581,10 +581,10 @@ Expected outcomes:
 
 ## 14.1 Risk Register
 
-| Risk                                                            | Type         | Likelihood | Impact   | Mitigation Plan                                                                        |
-| --------------------------------------------------------------- | ------------ | ---------- | -------- | -------------------------------------------------------------------------------------  | -------------------- |
-| LCD display didnt supported                                     | `Technical`  | `Medium`   | High     |  improve wiring stability,correction has done in the code|
-| 4X4 matrix keypad did'nt supported                              | `Technical`  | `Medium`   | High     |  improve wiring stability,correction has done in the code,libraries has been installed|
+| Risk | Type | Likelihood | Impact | Mitigation Plan |
+|------|------|------------|--------|-----------------|
+| LCD display didn't support properly | Technical | Medium | High | Improved wiring stability and corrected the code |
+| 4X4 matrix keypad didn't support properly | Technical | Medium | High | Installed required libraries and corrected the code |
 
 ## 14.2 Biggest Unknown Right Now
 
@@ -602,7 +602,7 @@ What is the single biggest uncertainty in your project at this stage?
 
 | What Needs Testing     | How You Will Test It                                                                 | Success Condition                                                                                    |
 | ---------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| Code | checking if there is no any error| code succesfully tested and is without error    
+| Code | checking if there is no any error| code succesfully tested and it is without error    
 | LCD screen | by correcting the connections and the proper code| code corrected succefully and connections too  |
 | 4X4 matrix keypad| checking the connections | connections checked properly
                        |
@@ -611,7 +611,7 @@ What is the single biggest uncertainty in your project at this stage?
 | Date          | Problem Found                         | Type         | What You Tried                                | Result               | Next Action                                    |
 | ------------- | ------------------------------------- | ------------ | --------------------------------------------- | -------------------- | ---------------------------------------------- |
 | 28 april | LCD not working     | Electronic | reducing error ,downloding proper libraries | `Worked`             | improved code and connection                    |
-| 28 april | 4x4 keypad not working     | Electronic |making proper connections and correctiing code | `Worked`             | improved code and connection                    |
+| 28 april | 4x4 keypad not working     | Electronic |making proper connections and correcting code | `Worked`             | improved code and connection                    |
 
 ## 15.3 Playtesting Notes
 
