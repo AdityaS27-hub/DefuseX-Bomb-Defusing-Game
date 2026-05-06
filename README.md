@@ -409,7 +409,7 @@ Suggested sequence:
 - error handling.
 
 **Insert image below:**  
-<img width="1600" height="1200" alt="image" src="images/FLOWCHART.jpeg" />
+<img width="1600" height="1200" alt="image" src="images/FLOWCHART .jpeg" />
 
 
 
@@ -582,9 +582,9 @@ Expected outcomes:
 ## 14.1 Risk Register
 
 | Risk                                                            | Type         | Likelihood | Impact   | Mitigation Plan                                                                        |
-| --------------------------------------------------------------- | ------------ | ---------- | -------- | ------------------------------------------------------------------------------------- | -------------------- |
-| LCD display didnt supported                                     | `Technical`  | `Medium`   | High  |  improve wiring stability,correction has done in the code|
-|4X4 matrix keypad did'nt supported                               | `Technical`  | `Medium`   | High  |  improve wiring stability,correction has done in the code,libraries has been installed|
+| --------------------------------------------------------------- | ------------ | ---------- | -------- | -------------------------------------------------------------------------------------  | -------------------- |
+| LCD display didnt supported                                     | `Technical`  | `Medium`   | High     |  improve wiring stability,correction has done in the code|
+| 4X4 matrix keypad did'nt supported                              | `Technical`  | `Medium`   | High     |  improve wiring stability,correction has done in the code,libraries has been installed|
 
 ## 14.2 Biggest Unknown Right Now
 
